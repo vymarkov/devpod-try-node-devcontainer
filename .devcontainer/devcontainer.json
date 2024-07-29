@@ -10,8 +10,6 @@
 	"features": {	
 		"ghcr.io/devcontainers/features/aws-cli:1": {},
 		"ghcr.io/devcontainers-contrib/features/firebase-cli:2":{},
-		"ghcr.io/bartventer/arch-devcontainer-features/gcloud-cli:1":{},
-                "ghcr.io/joshuanianji/devcontainer-features/gcloud-cli-persistence:1":{},
 		"ghcr.io/devcontainers-contrib/features/sops:1": {}
 	},
 
